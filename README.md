@@ -18,9 +18,9 @@ PyTorch Handwritten Digit Recognition is an advanced Python application designed
 
 # Potential Applications:
 
-*Digitalization of Handwritten Documents: Facilitate the conversion of handwritten documents into digital format, enabling efficient storage, retrieval, and analysis of handwritten data.
-*Automatic Form Processing: Automate the extraction of numerical data from handwritten forms, reducing manual data entry efforts and streamlining administrative processes.
-*Educational Tools: Serve as an educational tool for teaching concepts of machine learning and deep learning, allowing students to experiment with digit recognition algorithms in a hands-on manner.
-*Financial Transactions: Enable secure authentication and verification of handwritten signatures or numerical inputs in financial transactions, enhancing fraud detection and prevention measures.
+* Digitalization of Handwritten Documents: Facilitate the conversion of handwritten documents into digital format, enabling efficient storage, retrieval, and analysis of handwritten data.
+* Automatic Form Processing: Automate the extraction of numerical data from handwritten forms, reducing manual data entry efforts and streamlining administrative processes.
+* Educational Tools: Serve as an educational tool for teaching concepts of machine learning and deep learning, allowing students to experiment with digit recognition algorithms in a hands-on manner.
+* Financial Transactions: Enable secure authentication and verification of handwritten signatures or numerical inputs in financial transactions, enhancing fraud detection and prevention measures.
 
 PyTorch Handwritten Digit Recognition represents a breakthrough in the field of pattern recognition, offering unparalleled accuracy, speed, and usability. Whether for personal, educational, or commercial purposes, this application empowers users to harness the capabilities of deep learning for precise and efficient handwritten digit recognition.
